@@ -1,0 +1,296 @@
+{
+    "data": [
+        {
+            "city": "Anaheim",
+            "customer_count": 3
+        },
+        {
+            "city": "Arlington",
+            "customer_count": 3
+        },
+        {
+            "city": "Atlanta",
+            "customer_count": 6
+        },
+        {
+            "city": "Aurora",
+            "customer_count": 8
+        },
+        {
+            "city": "Austin",
+            "customer_count": 9
+        },
+        {
+            "city": "Bakersfield",
+            "customer_count": 6
+        },
+        {
+            "city": "Baltimore",
+            "customer_count": 5
+        },
+        {
+            "city": "Boston",
+            "customer_count": 9
+        },
+        {
+            "city": "Buffalo",
+            "customer_count": 6
+        },
+        {
+            "city": "Charlotte",
+            "customer_count": 4
+        },
+        {
+            "city": "Chattanooga",
+            "customer_count": 5
+        },
+        {
+            "city": "Chicago",
+            "customer_count": 7
+        },
+        {
+            "city": "Chula Vista",
+            "customer_count": 8
+        },
+        {
+            "city": "Cincinnati",
+            "customer_count": 9
+        },
+        {
+            "city": "Cleveland",
+            "customer_count": 3
+        },
+        {
+            "city": "Colorado Springs",
+            "customer_count": 8
+        },
+        {
+            "city": "Columbus",
+            "customer_count": 7
+        },
+        {
+            "city": "Corpus Christi",
+            "customer_count": 7
+        },
+        {
+            "city": "Dallas",
+            "customer_count": 10
+        },
+        {
+            "city": "Denver",
+            "customer_count": 7
+        },
+        {
+            "city": "Detroit",
+            "customer_count": 8
+        },
+        {
+            "city": "El Paso",
+            "customer_count": 13
+        },
+        {
+            "city": "Fort Wayne",
+            "customer_count": 3
+        },
+        {
+            "city": "Fort Worth",
+            "customer_count": 8
+        },
+        {
+            "city": "Garland",
+            "customer_count": 5
+        },
+        {
+            "city": "Gilbert",
+            "customer_count": 6
+        },
+        {
+            "city": "Glendale",
+            "customer_count": 4
+        },
+        {
+            "city": "Greensboro",
+            "customer_count": 6
+        },
+        {
+            "city": "Henderson",
+            "customer_count": 8
+        },
+        {
+            "city": "Hialeah",
+            "customer_count": 10
+        },
+        {
+            "city": "Honolulu",
+            "customer_count": 5
+        },
+        {
+            "city": "Houston",
+            "customer_count": 10
+        },
+        {
+            "city": "Indianapolis",
+            "customer_count": 3
+        },
+        {
+            "city": "Jacksonville",
+            "customer_count": 8
+        },
+        {
+            "city": "Jersey City",
+            "customer_count": 7
+        },
+        {
+            "city": "Kansas City",
+            "customer_count": 11
+        },
+        {
+            "city": "Laredo",
+            "customer_count": 9
+        },
+        {
+            "city": "Las Vegas",
+            "customer_count": 11
+        },
+        {
+            "city": "Lexington",
+            "customer_count": 7
+        },
+        {
+            "city": "Lincoln",
+            "customer_count": 3
+        },
+        {
+            "city": "Los Angeles",
+            "customer_count": 7
+        },
+        {
+            "city": "Madison",
+            "customer_count": 2
+        },
+        {
+            "city": "Memphis",
+            "customer_count": 7
+        },
+        {
+            "city": "Miami",
+            "customer_count": 3
+        },
+        {
+            "city": "Minneapolis",
+            "customer_count": 6
+        },
+        {
+            "city": "Nashville",
+            "customer_count": 5
+        },
+        {
+            "city": "New York",
+            "customer_count": 5
+        },
+        {
+            "city": "Newark",
+            "customer_count": 6
+        },
+        {
+            "city": "Oakland",
+            "customer_count": 11
+        },
+        {
+            "city": "Oklahoma City",
+            "customer_count": 5
+        },
+        {
+            "city": "Orlando",
+            "customer_count": 5
+        },
+        {
+            "city": "Philadelphia",
+            "customer_count": 4
+        },
+        {
+            "city": "Phoenix",
+            "customer_count": 4
+        },
+        {
+            "city": "Plano",
+            "customer_count": 13
+        },
+        {
+            "city": "Portland",
+            "customer_count": 4
+        },
+        {
+            "city": "Raleigh",
+            "customer_count": 2
+        },
+        {
+            "city": "Riverside",
+            "customer_count": 6
+        },
+        {
+            "city": "San Antonio",
+            "customer_count": 11
+        },
+        {
+            "city": "San Diego",
+            "customer_count": 5
+        },
+        {
+            "city": "San Francisco",
+            "customer_count": 8
+        },
+        {
+            "city": "San Jose",
+            "customer_count": 9
+        },
+        {
+            "city": "Santa Ana",
+            "customer_count": 7
+        },
+        {
+            "city": "Seattle",
+            "customer_count": 11
+        },
+        {
+            "city": "St. Louis",
+            "customer_count": 5
+        },
+        {
+            "city": "St. Paul",
+            "customer_count": 11
+        },
+        {
+            "city": "St. Petersburg",
+            "customer_count": 5
+        },
+        {
+            "city": "Stockton",
+            "customer_count": 13
+        },
+        {
+            "city": "Tampa",
+            "customer_count": 4
+        },
+        {
+            "city": "Toledo",
+            "customer_count": 7
+        },
+        {
+            "city": "Tucson",
+            "customer_count": 7
+        },
+        {
+            "city": "Tulsa",
+            "customer_count": 6
+        },
+        {
+            "city": "Washington",
+            "customer_count": 11
+        },
+        {
+            "city": "Wichita",
+            "customer_count": 10
+        }
+    ]
+}

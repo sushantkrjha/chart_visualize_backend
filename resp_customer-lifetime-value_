@@ -1,0 +1,100 @@
+{
+    "data": [
+        {
+            "cohort_month": "2022-01",
+            "total_price": 244212.1
+        },
+        {
+            "cohort_month": "2022-02",
+            "total_price": 246020.5
+        },
+        {
+            "cohort_month": "2022-03",
+            "total_price": 292048.9
+        },
+        {
+            "cohort_month": "2022-04",
+            "total_price": 304927.7
+        },
+        {
+            "cohort_month": "2022-05",
+            "total_price": 298882.1
+        },
+        {
+            "cohort_month": "2022-06",
+            "total_price": 214909.2
+        },
+        {
+            "cohort_month": "2022-07",
+            "total_price": 305279.7
+        },
+        {
+            "cohort_month": "2022-08",
+            "total_price": 237358.0
+        },
+        {
+            "cohort_month": "2022-09",
+            "total_price": 220158.4
+        },
+        {
+            "cohort_month": "2022-10",
+            "total_price": 174330.2
+        },
+        {
+            "cohort_month": "2022-11",
+            "total_price": 280795.9
+        },
+        {
+            "cohort_month": "2022-12",
+            "total_price": 209157.3
+        },
+        {
+            "cohort_month": "2023-01",
+            "total_price": 282129.1
+        },
+        {
+            "cohort_month": "2023-02",
+            "total_price": 210758.9
+        },
+        {
+            "cohort_month": "2023-03",
+            "total_price": 198007.7
+        },
+        {
+            "cohort_month": "2023-04",
+            "total_price": 221123.1
+        },
+        {
+            "cohort_month": "2023-05",
+            "total_price": 239083.9
+        },
+        {
+            "cohort_month": "2023-06",
+            "total_price": 172859.5
+        },
+        {
+            "cohort_month": "2023-07",
+            "total_price": 135484.8
+        },
+        {
+            "cohort_month": "2023-08",
+            "total_price": 240369.8
+        },
+        {
+            "cohort_month": "2023-09",
+            "total_price": 174650.3
+        },
+        {
+            "cohort_month": "2023-10",
+            "total_price": 208850.4
+        },
+        {
+            "cohort_month": "2023-11",
+            "total_price": 175935.1
+        },
+        {
+            "cohort_month": "2023-12",
+            "total_price": 227951.9
+        }
+    ]
+}

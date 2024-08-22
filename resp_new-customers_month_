@@ -1,0 +1,100 @@
+{
+    "data": [
+        {
+            "created_at": "2020-01-31T00:00:00Z",
+            "new_customers": 23
+        },
+        {
+            "created_at": "2020-02-29T00:00:00Z",
+            "new_customers": 19
+        },
+        {
+            "created_at": "2020-03-31T00:00:00Z",
+            "new_customers": 25
+        },
+        {
+            "created_at": "2020-04-30T00:00:00Z",
+            "new_customers": 18
+        },
+        {
+            "created_at": "2020-05-31T00:00:00Z",
+            "new_customers": 20
+        },
+        {
+            "created_at": "2020-06-30T00:00:00Z",
+            "new_customers": 20
+        },
+        {
+            "created_at": "2020-07-31T00:00:00Z",
+            "new_customers": 18
+        },
+        {
+            "created_at": "2020-08-31T00:00:00Z",
+            "new_customers": 13
+        },
+        {
+            "created_at": "2020-09-30T00:00:00Z",
+            "new_customers": 18
+        },
+        {
+            "created_at": "2020-10-31T00:00:00Z",
+            "new_customers": 30
+        },
+        {
+            "created_at": "2020-11-30T00:00:00Z",
+            "new_customers": 23
+        },
+        {
+            "created_at": "2020-12-31T00:00:00Z",
+            "new_customers": 31
+        },
+        {
+            "created_at": "2021-01-31T00:00:00Z",
+            "new_customers": 22
+        },
+        {
+            "created_at": "2021-02-28T00:00:00Z",
+            "new_customers": 19
+        },
+        {
+            "created_at": "2021-03-31T00:00:00Z",
+            "new_customers": 19
+        },
+        {
+            "created_at": "2021-04-30T00:00:00Z",
+            "new_customers": 17
+        },
+        {
+            "created_at": "2021-05-31T00:00:00Z",
+            "new_customers": 17
+        },
+        {
+            "created_at": "2021-06-30T00:00:00Z",
+            "new_customers": 22
+        },
+        {
+            "created_at": "2021-07-31T00:00:00Z",
+            "new_customers": 23
+        },
+        {
+            "created_at": "2021-08-31T00:00:00Z",
+            "new_customers": 25
+        },
+        {
+            "created_at": "2021-09-30T00:00:00Z",
+            "new_customers": 19
+        },
+        {
+            "created_at": "2021-10-31T00:00:00Z",
+            "new_customers": 19
+        },
+        {
+            "created_at": "2021-11-30T00:00:00Z",
+            "new_customers": 23
+        },
+        {
+            "created_at": "2021-12-31T00:00:00Z",
+            "new_customers": 17
+        }
+    ]
+}
